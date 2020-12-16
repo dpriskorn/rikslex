@@ -1,3 +1,6 @@
+# ARCHIVED
+replaced by https://github.com/egils-consulting/lexeme-usage-examples
+
 # rikslex
 Scripts related to Wikidata and the Riksdagen API. All scripts here are licensed under GPL-v3
 
